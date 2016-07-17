@@ -1,6 +1,7 @@
 # ReviewNinja-Welcome
 
 **Thanks for letting us show you around!**
+https://app.review.ninja/63480202/badge
 
 What you’re seeing here is a GitHub pull request with the code diffs
 showing by default. Feel free to look around.
